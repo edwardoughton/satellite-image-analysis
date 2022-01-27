@@ -27,14 +27,6 @@ Learning Outcomes
     2. Develop introductory Python-based approaches for object detection and extraction.
     3. Utilize introductory JavaScript for running image processing tasks using cloud computing.
 
-
-Syllabus Overview
-=================
-
-<p align="center">
-  <img src="syllabus/format.pdf" />
-</p>
-
 Thanks for the support
 ======================
 
