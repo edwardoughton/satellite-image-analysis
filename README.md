@@ -1,5 +1,5 @@
-A Gentle Introduction to Satellite Image Analysis
-=================================================
+A Gentle Introduction to Satellite Image Processing
+===================================================
 
 Welcome to this introductory course on `Satellite Image Analysis`!
 
