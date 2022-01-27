@@ -33,14 +33,14 @@ Syllabus
   <img src="/syllabus/format.png", width="800" />
 </p>
 
-Thanks for the support
-======================
+Acknowledgements
+================
 
-This repository is the codebase associated with the satellite image processing class at George
-Mason University (GGS416).
+This repository is the codebase associated with the satellite image processing class 
+supported and delivered by George Mason University (GGS416).
 
 Contributors
 ============
-Edward Oughton (eoughton [at] gmu.edu)
-Mirza Waleed (mirzawaleed197 [at] gmail.com)
-Bonface Osoro (bosoro [at] gmu.edu)
+- Edward Oughton (eoughton [at] gmu.edu)
+- Mirza Waleed (mirzawaleed197 [at] gmail.com)
+- Bonface Osoro (bosoro [at] gmu.edu)
