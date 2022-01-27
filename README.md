@@ -29,7 +29,7 @@ Learning Outcomes
 
 Syllabus
 ========
-<p align="center">
+<p align="left">
   <img src="/syllabus/format.png", width="800" />
 </p>
 
