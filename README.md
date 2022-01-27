@@ -8,7 +8,7 @@ archaeology, sustainability, and many other domains which utilize geospatial int
 
 Indeed, the wide variety of imagery sources and the vast amounts of data being collected
 are now challenging our ability to manage, process, and derive useful insight from this
-information. 
+information.
 
 Motivated by this, the primary objective of the course is to provide a
 systematic introduction to computer-based processing of satellite imagery techniques
@@ -27,6 +27,12 @@ Learning Outcomes
     2. Develop introductory Python-based approaches for object detection and extraction.
     3. Utilize introductory JavaScript for running image processing tasks using cloud computing.
 
+Syllabus
+========
+<p align="center">
+  <img src="/syllabus/format.png" />
+</p>
+
 Thanks for the support
 ======================
 
@@ -36,5 +42,5 @@ Mason University (GGS416).
 Contributors
 ============
 Edward Oughton (eoughton [at] gmu.edu)
-Mirza Waleed (tbc)
+Mirza Waleed (mirzawaleed197 [at] gmail.com)
 Bonface Osoro (bosoro [at] gmu.edu)
