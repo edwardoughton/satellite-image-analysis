@@ -43,4 +43,4 @@ Contributors
 ============
 - Edward Oughton (eoughton [at] gmu.edu)
 - Mirza Waleed (mirzawaleed197 [at] gmail.com)
-- Bonface Osoro (bosoro [at] gmu.edu)
+- Osoro Ogutu Bonfacee (bosoro@gmu.edu)
