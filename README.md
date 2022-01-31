@@ -36,11 +36,11 @@ Syllabus
 Acknowledgements
 ================
 
-This repository is the codebase associated with the satellite image processing class 
+This repository is the codebase associated with the satellite image processing class
 supported and delivered by George Mason University (GGS416).
 
 Contributors
 ============
 - Edward Oughton (eoughton [at] gmu.edu)
 - Mirza Waleed (mirzawaleed197 [at] gmail.com)
-- Osoro Ogutu Bonfacee (bosoro@gmu.edu)
+- Osoro Ogutu Bonfacee (bosoro [at] gmu.edu)
