@@ -1,0 +1,14 @@
+,satellite,year,inclination,government owned?,mission
+0,LandSat,1972,99.2,True,Remote sensing
+1,EumetSat,1986,66.0,True,Remote sensing
+2,Sentinel,2013,98.65,True,Remote sensing
+3,PlanetScope,2015,98.1,False,Communication
+4,RasCom,2010,0.1,True,Communication
+5,Starlink,2018,53.2,False,Communication
+6,Telesat,2019,,False,Remote sensing
+7,RadarSat,1995,98.6,True,Remote sensing
+8,Alos,2006,98.16,,Remote sensing
+9,KitSat-1,1999,,True,Communication
+10,Chollian,2010,0.2,True,Communication
+11,Iridium,1999,86.4,False,Remote sensing
+12,OneWeb,2021,86.4,,Communication
