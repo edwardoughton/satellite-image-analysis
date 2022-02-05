@@ -128,4 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+/notebooks/week3/unzipped/*
 /notebooks/week10/*
+
+*.zip
