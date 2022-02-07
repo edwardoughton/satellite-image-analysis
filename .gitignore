@@ -132,3 +132,5 @@ dmypy.json
 /notebooks/week10/*
 
 *.zip
+*.xml
+*.tif
