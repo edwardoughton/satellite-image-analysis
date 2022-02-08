@@ -44,3 +44,4 @@ Contributors
 - Edward Oughton (eoughton [at] gmu.edu)
 - Mirza Waleed (mirzawaleed197 [at] gmail.com)
 - Osoro Ogutu Bonfacee (bosoro [at] gmu.edu)
+- Bradley A. Gay (bgay2 [at] gmu.edu)
