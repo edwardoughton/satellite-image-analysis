@@ -45,6 +45,10 @@ Create a conda environment called `sia` (for Satellite Image Analysis):
 
     conda create --name sia python=3.7
 
+It's also handy to install `jupyter` too:
+
+    conda install jupyter notebook
+    
 
 Acknowledgements
 ================
