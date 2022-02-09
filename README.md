@@ -33,6 +33,19 @@ Syllabus
   <img src="/syllabus/format.png", width="800" />
 </p>
 
+
+Using conda
+==========
+
+The recommended way to use the course materials is via conda, which handles packages and
+virtual environments, along with the conda-forge channel which has a host of pre-built
+libraries and packages.
+
+Create a conda environment called `sia` (for Satellite Image Analysis):
+
+    conda create --name sia python=3.7
+
+
 Acknowledgements
 ================
 
