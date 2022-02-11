@@ -129,6 +129,9 @@ dmypy.json
 .pyre/
 
 /notebooks/week3/unzipped/*
+/notebooks/week4/*.jpg
+/notebooks/week4/*.png
+/notebooks/week5/shapes/
 /notebooks/week10/*
 
 *.zip
