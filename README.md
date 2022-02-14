@@ -43,12 +43,16 @@ libraries and packages.
 
 Create a conda environment called `sia` (for Satellite Image Analysis):
 
-    conda create --name sia python=3.7
+    conda create --name sia python=3.7 gdal
 
 It's also handy to install `jupyter` too:
 
     conda install jupyter notebook
     
+If you need to uninstall the environment, use the following:
+
+    conda remove --name sia --all
+
 
 Acknowledgements
 ================
