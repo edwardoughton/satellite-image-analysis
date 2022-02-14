@@ -41,11 +41,11 @@ The recommended way to use the course materials is via conda, which handles pack
 virtual environments, along with the conda-forge channel which has a host of pre-built
 libraries and packages.
 
-Create a conda environment called `sia` (for Satellite Image Analysis):
+Create a conda environment called `sia` (for Satellite Image Analysis) and simultaneously installing `rasterio`:
 
-    conda create --name sia python=3.7 gdal
+    conda create -n sia -c conda-forge rasterio
 
-It's also handy to install `jupyter` too:
+It's also handy to install `jupyter`:
 
     conda install jupyter notebook
     
