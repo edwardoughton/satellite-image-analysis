@@ -1,5 +1,6 @@
 A Gentle Introduction to Satellite Image Processing
 ===================================================
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edwardoughton/satellite-image-analysis/HEAD)
 
 Welcome to this introductory course on `Satellite Image Analysis`!
 
@@ -30,8 +31,29 @@ Learning Outcomes
 Syllabus
 ========
 <p align="left">
-  <img src="/syllabus/format.png", width="800" />
+  <img src="/syllabus/format_v2.png", width="800" />
 </p>
+
+
+Using conda
+==========
+
+The recommended way to use the course materials is via conda, which handles packages and
+virtual environments, along with the conda-forge channel which has a host of pre-built
+libraries and packages.
+
+Create a conda environment called `sia` (for Satellite Image Analysis) and simultaneously installing `rasterio`:
+
+    conda create -n sia -c conda-forge rasterio
+
+It's also handy to install `jupyter`:
+
+    conda install jupyter notebook
+    
+If you need to uninstall the environment, use the following:
+
+    conda remove --name sia --all
+
 
 Acknowledgements
 ================
