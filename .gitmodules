@@ -1,0 +1,6 @@
+[submodule "Tutorials"]
+	path = Tutorials
+	url = https://github.com/bradleygay/Tutorials
+[submodule "git_resources"]
+	path = git_resources
+	url = https://github.com/bradleygay/git_resources
