@@ -61,6 +61,8 @@ If you need to uninstall the environment, use the following:
 Cloning and Installing Package Dependencies 
 ===========================================
 
+Alternatively, you can use the `environment.yml` file to install dependencies.  
+
 Clone this repository using GitHub Desktop or on the command line:
 
     git clone https://github.com/edwardoughton/satellite-image-analysis.git
