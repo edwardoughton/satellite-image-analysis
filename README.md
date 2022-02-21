@@ -35,24 +35,44 @@ Syllabus
 </p>
 
 
-Using conda
-==========
+Clean Installation via Conda
+============================
 
 The recommended way to use the course materials is via conda, which handles packages and
 virtual environments, along with the conda-forge channel which has a host of pre-built
 libraries and packages.
 
-Create a conda environment called `sia` (for Satellite Image Analysis) and simultaneously installing `rasterio`:
+Create a conda environment called `sia` (for Satellite Image Analysis):
 
-    conda create -n sia -c conda-forge rasterio
+    conda create -n sia 
 
 It's also handy to install `jupyter`:
 
     conda install jupyter notebook
     
+You will need a bunch of other packages, such as `rasterio`, `geopandas` and `matplotlib`:
+    
+    conda install rasterio geopandas matplotlib
+    
 If you need to uninstall the environment, use the following:
 
     conda remove --name sia --all
+
+Cloning and Installing Package Dependencies 
+===========================================
+
+Clone this repository using GitHub Desktop or on the command line:
+
+    git clone https://github.com/edwardoughton/satellite-image-analysis.git
+
+Then navigate into the project directory:
+
+    cd satellite-image-analysis
+
+Finally, create and activate a conda environment with all required package dependencies:
+
+    conda env create -f .environment.yml
+    conda activate sia
 
 
 Acknowledgements
