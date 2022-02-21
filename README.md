@@ -73,7 +73,7 @@ Then navigate into the project directory:
 
 Finally, create and activate a conda environment with all required package dependencies:
 
-    conda env create -f .environment.yml
+    conda env create -f environment.yml
     conda activate sia
 
 
