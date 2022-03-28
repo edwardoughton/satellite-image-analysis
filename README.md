@@ -19,14 +19,13 @@ This course emphasizes the practical application of computer-based image process
 (for total beginners) using programming techniques capable of analyzing large quantities
 of imagery data.
 
-The tools used include Python/OpenCV and JavaScript/Google Earth Engine.
+The tools used focus on Python with affiliated packages such as Rasterio, GeoPandas, OpenCV, Matplotlib etc.
 
 Learning Outcomes
 =================
 
     1. Understand practical computer programming techniques for processing satellite imagery.
     2. Develop introductory Python-based approaches for object detection and extraction.
-    3. Utilize introductory JavaScript for running image processing tasks using cloud computing.
 
 Syllabus
 ========
