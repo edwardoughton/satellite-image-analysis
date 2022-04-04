@@ -135,7 +135,6 @@ dmypy.json
 # /notebooks/week4/test/*.ipynb
 /notebooks/week4/*.png
 /notebooks/week5/shapes/
-/notebooks/week10
 
 # *.zip
 *.xml
