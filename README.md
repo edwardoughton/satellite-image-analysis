@@ -5,7 +5,7 @@ A Gentle Introduction to Satellite Image Processing
 Welcome to this introductory course on `Satellite Image Analysis`!
 
 Satellite imagery has become a primary data source in the natural sciences, economics,
-archaeology, sustainability, and many other domains which utilize geospatial intelligence.
+archaeology, sustainability, national security & defence, and many other domains which utilize geospatial intelligence.
 
 Indeed, the wide variety of imagery sources and the vast amounts of data being collected
 are now challenging our ability to manage, process, and derive useful insight from this
