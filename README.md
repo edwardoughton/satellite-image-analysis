@@ -85,6 +85,6 @@ supported and delivered by George Mason University (GGS416).
 Contributors
 ============
 - Edward Oughton (eoughton [at] gmu.edu)
-- Mirza Waleed (mirzawaleed197 [at] gmail.com)
 - Osoro Ogutu Bonfacee (bosoro [at] gmu.edu)
+- Mirza Waleed (mirzawaleed197 [at] gmail.com)
 - Bradley A. Gay (bgay2 [at] gmu.edu)
