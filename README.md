@@ -30,7 +30,7 @@ Learning Outcomes
 Syllabus
 ========
 <p align="left">
-  <img src="/syllabus/format_v2.png", width="800" />
+  <img src="/syllabus/format_v3.png", width="800" />
 </p>
 
 
@@ -43,24 +43,24 @@ libraries and packages.
 
 Create a conda environment called `sia` (for Satellite Image Analysis):
 
-    conda create -n sia 
+    conda create -n sia
 
 It's also handy to install `jupyter`:
 
     conda install jupyter notebook
-    
+
 You will need a bunch of other packages, such as `rasterio`, `geopandas` and `matplotlib`:
-    
+
     conda install rasterio geopandas matplotlib
-    
+
 If you need to uninstall the environment, use the following:
 
     conda remove --name sia --all
 
-Cloning and Installing Package Dependencies 
+Cloning and Installing Package Dependencies
 ===========================================
 
-Alternatively, you can use the `environment.yml` file to install dependencies.  
+Alternatively, you can use the `environment.yml` file to install dependencies.
 
 Clone this repository using GitHub Desktop or on the command line:
 
