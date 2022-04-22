@@ -1,6 +1,5 @@
 A Gentle Introduction to Satellite Image Processing
 ===================================================
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edwardoughton/satellite-image-analysis/HEAD)
 
 Welcome to this introductory course on `Satellite Image Analysis`!
 
