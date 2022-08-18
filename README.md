@@ -22,6 +22,7 @@ of imagery data.
 The tools used focus on Python with affiliated packages such as Rasterio, GeoPandas, OpenCV,
 Matplotlib etc.
 
+
 Learning Outcomes
 =================
 
@@ -30,22 +31,22 @@ Learning Outcomes
     3.	Become proficient in using essential computer programming tools and software (Google Colab,
         Jupyter Notebooks, GitHub etc.).
 
+
 Syllabus
 ========
 <p align="left">
   <img src="/syllabus/Slide1.PNG", width="800" />
 </p>
 
+
 Acknowledgements
 ================
+Thank you to [Planet Labs](https://www.planet.com/?gclid=Cj0KCQjwxveXBhDDARIsAI0Q0x35aKVZQdkpJ85xfat-DABZzCP4AO4xgqcIgMt1IeF0bVwNcAiFG9IaAjcSEALw_wcB)
+for providing a research gift to support the online materials for this course, particularly Tanya Harrison, Chris Beck and Austin Stone. Moreover, thank you to George Mason University for the support provided, as this repository is the codebase associated with the satellite image processing class GGS416.
 
-This repository is the codebase associated with the satellite image processing class
-supported and delivered by George Mason University (GGS416). Thank you to [Planet Labs](https://www.planet.com/?gclid=Cj0KCQjwxveXBhDDARIsAI0Q0x35aKVZQdkpJ85xfat-DABZzCP4AO4xgqcIgMt1IeF0bVwNcAiFG9IaAjcSEALw_wcB)
-for providing a research gift to support the online materials for this course, particularly Tanya Harrison, Chris Beck and Austin Stone.
 
 Contributors
 ============
 - Edward Oughton (eoughton [at] gmu.edu)
-- Osoro Ogutu Bonfacee (bosoro [at] gmu.edu)
-- Mirza Waleed (mirzawaleed197 [at] gmail.com)
-- Bradley A. Gay (bgay2 [at] gmu.edu)
+- Ulas Qazi (uqazi2 [at] gmu.edu)
+- Mark Bossinger (mbossing [at] gmu.edu)
