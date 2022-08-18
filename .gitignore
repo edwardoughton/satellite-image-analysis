@@ -139,3 +139,13 @@ dmypy.json
 # *.zip
 *.xml
 *.tif
+
+/notebooks/week2/*
+/notebooks/week3/*
+/notebooks/week4/*
+/notebooks/week5/*
+/notebooks/week6/*
+/notebooks/week7/*
+/notebooks/week8/*
+/notebooks/week9/*
+/notebooks/week10/*
