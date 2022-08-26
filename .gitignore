@@ -140,7 +140,8 @@ dmypy.json
 *.xml
 *.tif
 
-/notebooks/week2/*
+/notebooks/ggs416_demo.ipynb
+# /notebooks/week2/*
 /notebooks/week3/*
 /notebooks/week4/*
 /notebooks/week5/*
