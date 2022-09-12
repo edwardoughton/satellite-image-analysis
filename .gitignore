@@ -143,7 +143,7 @@ dmypy.json
 /notebooks/ggs416_demo.ipynb
 # /notebooks/week2/*
 # /notebooks/week3/*
-/notebooks/week4/*
+# /notebooks/week4/*
 /notebooks/week5/*
 /notebooks/week6/*
 /notebooks/week7/*
