@@ -145,7 +145,7 @@ dmypy.json
 # /notebooks/week3/*
 /notebooks/week4_old/*
 # /notebooks/week5/*
-/notebooks/week6/*
+# /notebooks/week6/*
 /notebooks/week7/*
 /notebooks/week8/*
 /notebooks/week9/*
