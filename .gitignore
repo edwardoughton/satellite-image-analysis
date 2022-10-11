@@ -135,7 +135,9 @@ dmypy.json
 # /notebooks/week4/test/*.ipynb
 /notebooks/week4/*.png
 /notebooks/week5/shapes/
-
+/notebooks/week7/20190321_174348_0f1a_3B_AnalyticMS.tif
+/notebooks/week7/20221001_154151_08_248f_1B_AnalyticMS.tif
+/notebooks/week8/obtain_planet_imagery.ipynb
 # *.zip
 *.xml
 # *.tif
@@ -147,7 +149,7 @@ dmypy.json
 # /notebooks/week5/*
 # /notebooks/week6/*
 # /notebooks/week7/*
-/notebooks/week8/*
+# /notebooks/week8/*
 /notebooks/week9/*
 /notebooks/week10/*
 /assignment_answers
