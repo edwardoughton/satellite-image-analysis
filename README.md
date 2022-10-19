@@ -41,6 +41,25 @@ Syllabus
 </p>
 
 
+Getting Started
+===============
+A common approach for scientific computing is to use `Anaconda`, which not only provides
+a package manager for Python, but also various virtual environment functions.
+
+To install a conda environment capable of running the tutorials provided here,
+you can utilize the following code:
+
+    conda env create -f sia.yml
+
+The `sia.yml` file represents an existing virtual environment with a variety of packages,
+necessary for these tutorials (e.g., `geopandas`, `rasterio` etc.).
+
+Alternatively, another installation approach is by creating
+a new conda environment via the `requirements.txt` file, as follows:
+
+    conda create --name sia --file requirements.txt
+
+
 Acknowledgements
 ================
 Thank you to [Planet Labs](https://www.planet.com/?gclid=Cj0KCQjwxveXBhDDARIsAI0Q0x35aKVZQdkpJ85xfat-DABZzCP4AO4xgqcIgMt1IeF0bVwNcAiFG9IaAjcSEALw_wcB)
