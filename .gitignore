@@ -152,6 +152,6 @@ dmypy.json
 # /notebooks/week7/*
 # /notebooks/week8/*
 # /notebooks/week9/*
-/notebooks/week10/*
+# /notebooks/week10/*
 /assignment_answers
 /notebooks/other/*
