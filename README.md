@@ -30,14 +30,20 @@ Learning Outcomes
 
     1.	Understand practical computer programming techniques for processing satellite imagery.
     2.	Develop introductory Python script-based approaches for object detection and extraction.
-    3.	Become proficient in using essential computer programming tools and software (Google Colab,
-        Jupyter Notebooks, GitHub etc.).
+    3.	Become proficient in using essential computer programming tools and software (Jupyter Notebooks, GitHub etc.).
+
+
+Overview of Class Content
+=========================
+<p align="left">
+  <img src="/syllabus/format/Slide2.PNG", width="800" />
+</p>
 
 
 Syllabus
 ========
 <p align="left">
-  <img src="/syllabus/Slide1.PNG", width="800" />
+  <img src="/syllabus/format/Slide1.PNG", width="800" />
 </p>
 
 
@@ -66,8 +72,13 @@ Thank you to [Planet Labs](https://www.planet.com/?gclid=Cj0KCQjwxveXBhDDARIsAI0
 for providing a research gift to support the online materials for this course, particularly Tanya Harrison, Chris Beck and Austin Stone. Moreover, thank you to George Mason University for the support provided, as this repository is the codebase associated with the satellite image processing class GGS416.
 
 
-Contributors
-============
+Current Contributors
+====================
 - Edward Oughton (eoughton [at] gmu.edu)
-- Ulas Qazi (uqazi2 [at] gmu.edu)
-- Mark Bossinger (mbossing [at] gmu.edu)
+- Aiden Suganuma 
+
+
+Past Contributors
+=================
+- Mark Bossinger 
+- Ulas Qazi 
