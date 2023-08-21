@@ -39,6 +39,7 @@ Overview of Class Content
   <img src="/syllabus/format/Slide2.PNG", width="800" />
 </p>
 
+
 Syllabus
 ========
 <p align="left">
@@ -76,7 +77,8 @@ Current Contributors
 - Edward Oughton (eoughton [at] gmu.edu)
 - Aiden Suganuma 
 
+
 Past Contributors
-========================================
+=================
 - Mark Bossinger 
 - Ulas Qazi 
