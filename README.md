@@ -33,6 +33,12 @@ Learning Outcomes
     3.	Become proficient in using essential computer programming tools and software (Jupyter Notebooks, GitHub etc.).
 
 
+Overview of Class Content
+=========================
+<p align="left">
+  <img src="/syllabus/format/Slide2.PNG", width="800" />
+</p>
+
 Syllabus
 ========
 <p align="left">
