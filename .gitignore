@@ -155,4 +155,4 @@ dmypy.json
 # /notebooks/week10/*
 /assignment_answers
 /notebooks/other/*
-
+/assignments/**old*
