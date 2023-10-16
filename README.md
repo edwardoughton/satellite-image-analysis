@@ -43,7 +43,7 @@ Overview of Class Content
 Syllabus
 ========
 <p align="left">
-  <img src="/syllabus/format/Slide1_v2.PNG", width="800" />
+  <img src="/syllabus/format/Slide1.PNG", width="800" />
 </p>
 
 
