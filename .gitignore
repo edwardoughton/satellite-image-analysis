@@ -144,15 +144,9 @@ dmypy.json
 # *.tif
 
 /notebooks/ggs416_demo.ipynb
-# /notebooks/week2/*
-# /notebooks/week3/*
 /notebooks/week4_old/*
-# /notebooks/week5/*
-# /notebooks/week6/*
-# /notebooks/week7/*
-# /notebooks/week8/*
-# /notebooks/week9/*
-# /notebooks/week10/*
 /assignment_answers
 /notebooks/other/*
 /assignments/**old*
+/assignments/**
+/notebooks/**
