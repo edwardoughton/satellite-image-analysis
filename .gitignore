@@ -143,10 +143,11 @@ dmypy.json
 *.xml
 # *.tif
 
-/notebooks/ggs416_demo.ipynb
-/notebooks/week4_old/*
-/assignment_answers
-/notebooks/other/*
-/assignments/**old*
-/assignments/**
-/notebooks/**
+# /notebooks/ggs416_demo.ipynb
+# /notebooks/week4_old/*
+# /assignment_answers
+# /notebooks/other/*
+# /assignments/**old*
+/assignments/*
+/notebooks/*
+/active_learning_group_project/*
