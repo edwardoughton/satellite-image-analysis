@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "gmu_geojson",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -77.3154, 38.8363 ], [ -77.2979, 38.8363 ], [ -77.2979, 38.824049589980788 ], [ -77.315373316465866, 38.824 ], [ -77.3154, 38.8363 ] ] ] ] } }
-]
-}
