@@ -22,4 +22,15 @@ of imagery data.
 The tools used focus on Python with affiliated packages such as Rasterio, GeoPandas, OpenCV,
 Matplotlib etc.
 
+Funding acknowledgement
+=======================
 
+The preparation of these open-source satellite image analysis materials has been gratefully 
+supported by research funding from NASA Cooperative Agreement 80NSSC25M0077.
+
+Notebooks
+=========
+
+Week 1 notebook link can be found here:
+
+https://colab.research.google.com/github/edwardoughton/satellite-image-analysis/blob/main/1_1_ggs416_26_01_25.ipynb
