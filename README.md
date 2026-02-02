@@ -34,3 +34,7 @@ Notebooks
 Week 1 notebook link can be found here:
 
 https://colab.research.google.com/github/edwardoughton/satellite-image-analysis/blob/main/1_1_ggs416_26_01_25.ipynb
+
+Week 2 notebook link can be found here:
+
+https://colab.research.google.com/github/edwardoughton/satellite-image-analysis/blob/main/02_01_ggs416_26_02_02.ipynb
