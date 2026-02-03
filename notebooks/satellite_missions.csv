@@ -1,7 +1,0 @@
-satellite,year,government_owned,mission
-LandSat,1972,True,Remote sensing
-Sentinel,2013,True,Remote sensing
-PlanetScope,2015,False,Remote sensing
-Starlink,2018,False,Communication
-Iridium,1999,False,Communication
-OneWeb,2021,False,Communication

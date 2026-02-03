@@ -149,5 +149,5 @@ dmypy.json
 # /notebooks/other/*
 # /assignments/**old*
 /assignments/*
-/notebooks/*
-/active_learning_group_project/*
+/notebooks/**
+/active_learning_group_project/**
