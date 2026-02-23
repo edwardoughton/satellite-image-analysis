@@ -151,3 +151,5 @@ dmypy.json
 /notebooks/
 /active_learning_group_project/
 /experiments/
+/naip_cropped/
+/naip_downloads/
