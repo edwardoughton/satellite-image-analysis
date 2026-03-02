@@ -50,3 +50,7 @@ https://colab.research.google.com/github/edwardoughton/satellite-image-analysis/
 Week 5 notebook link can be found here:
 
 https://colab.research.google.com/github/edwardoughton/satellite-image-analysis/blob/main/05_01_ggs416_26_02_23.ipynb
+
+Week 6 notebook link can be found here:
+
+https://colab.research.google.com/github/edwardoughton/satellite-image-analysis/blob/main/06_01_ggs416_26_03_02.ipynb
